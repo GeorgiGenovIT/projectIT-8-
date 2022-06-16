@@ -1,0 +1,85 @@
+/*Electric Blue Lemonade (#0063B2FF) and Aquamarine (#9CC3D5FF)   */
+
+body {
+    background-color: #0063B2FF;
+    width: 1000px;
+    margin: auto;
+
+}
+
+header {
+
+    background-color: #9CC3D5FF;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+footer {
+    background-color: #9CC3D5FF;
+    height: 60px;
+    width: 100%;
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    text-align: center;
+    vertical-align: middle;
+}
+
+h1 {
+    font-style: Times New Roman;
+    font-size: 40px;
+    font-weight: bold;
+    color: #0063B2FF;
+    margin-top: 20px;
+    text-align: center;
+}
+
+h6 {
+    font-style: Times New Roman;
+    font-size: 20px;
+    font-weight: bold;
+    color: #0063B2FF;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#artistDesc {
+    text-align: center;
+
+}
+
+
+
+h2 {
+
+    font-style: Times New Roman;
+    font-size: 25px;
+    font-weight: bold;
+    text-align: center;
+
+
+
+
+}
+
+li {
+    font-style: Times New Roman;
+    font-size: 25px;
+
+}
+
+#artistName {
+    
+    text-align: center;
+    font-size: 30px;
+    color: #9CC3D5FF;
+    font-weight: bold;
+    
+}
